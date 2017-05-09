@@ -1,0 +1,1 @@
+# change the "db_name" & http://localhost/wordpress/_wordpress
