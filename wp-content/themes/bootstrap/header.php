@@ -17,7 +17,8 @@
 		
 		<title><?php bloginfo('name'); ?>: <?php bloginfo('description');?></title>
 		<link rel="Shortcut Icon" href="<?php echo bloginfo('template_url'); ?>/images/" type="image/x-icon" />
-	
+		
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 		<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
